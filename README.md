@@ -22,6 +22,7 @@ pip install "uvicorn[standard]"
 pip install SpeechRecognition
 pip install PyAudio
 pip install python-multipart
+pip install pandas
 ```
 
 Por otro lado, en este caso se proporcina el archivo [requirements.txt](backend/requirements.txt) dentro de la carpeta [backend](backend/), lo primero que tiene que hacer es ingresar a esta carpeta:
@@ -56,4 +57,12 @@ pip install -r requirements.txt
 ## Referencias
 
 * https://github.com/PacktPublishing/ChatGPT-Voice-Powered-ChatBot-Build-with-React-and-FastAPI/tree/main
-* 
+* https://realpython.com/python-csv/
+* https://realpython.com/python-classes/
+* https://realpython.com/inheritance-composition-python/
+* https://github.com/milaan9/06_Python_Object_Class
+* https://cs50.harvard.edu/x/2023/problems/6/
+* https://github.com/IrvKalb/Object-Oriented-Python-Code/
+* https://realpython.com/pandas-read-write-files/
+* https://realpython.com/quizzes/python-csv/viewer/
+* https://realpython.com/python-interview-problem-parsing-csv-files/
